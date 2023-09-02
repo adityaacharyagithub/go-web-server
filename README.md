@@ -1,1 +1,1 @@
-# go-web-server
+# Basic Go web server
